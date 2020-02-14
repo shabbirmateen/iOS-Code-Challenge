@@ -35,4 +35,4 @@ The code will be evaluated based on:
 * iOS best practices
 
 ## Submission
-You should provide a URL to a Git repository of yours when you complete. If it is a private repo on Gihub, you can add **testAxxess** account to your coolaborators when complete.
+You should provide a URL to a Git repository of yours when you complete. If it is a private repo on GitHub, you can add **testAxxess** account to your collaborators when complete.
