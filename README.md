@@ -13,11 +13,11 @@ Programmatically (no storyboards) create the user interface that allows the user
 1. see all JSON fields
 2. sort and display items based on their “type”
 3. select an item to see it full screen.
-4. store the data in device and ability to view while offline
+4. store data in device, and to view while offline
 
 *Bonus*
 You don't necessarily need to do the following, but will be an add on to your project.
-- Using Realm for local storage
+- Using [Realm](https://github.com/realm/realm-cocoa) for local storage
 - Unit Testing / UI Testing
 - Univeral interface support (iPhone & iPad)
 
