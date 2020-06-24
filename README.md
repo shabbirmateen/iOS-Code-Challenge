@@ -3,7 +3,7 @@
 This challenge will be graded as if it were production ready code. Please make sure the work is your own. If any part of it is not, make sure it is properly cited.
 
 ## The Challenge
-Develop a Swift App, to download and display contents of a list.
+Develop a Swift App, to download, save, and display contents of a list.
 
 *Expected behavior:*
 
@@ -13,9 +13,11 @@ Programmatically (no storyboards) create the user interface that allows the user
 1. see all JSON fields
 2. sort and display items based on their “type”
 3. select an item to see it full screen.
+4. store the data in device and ability to view while offline
 
 *Bonus*
 You don't necessarily need to do the following, but will be an add on to your project.
+- Using Realm for local storage
 - Unit Testing / UI Testing
 - Univeral interface support (iPhone & iPad)
 
