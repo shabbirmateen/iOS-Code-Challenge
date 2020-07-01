@@ -19,7 +19,7 @@ Upon launching the app, it should query this  [link](https://raw.githubuserconte
 You don't necessarily need to do the following, but will be an add on to your project.
 - Using [Realm](https://github.com/realm/realm-cocoa) for local storage
 - Unit Testing / UI Testing
-- Univeral interface support (iPhone & iPad)
+- Universal interface support (iPhone & iPad)
 
 ## Requirements
 There are no design requirements for this application, simply follow the iOS Human Interface Guidelines, however we strongly encourage you to add bells and whistles to set yourself apart and show off some of your skills.
